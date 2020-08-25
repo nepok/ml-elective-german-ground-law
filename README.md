@@ -11,7 +11,7 @@ I wanted to see if it comes up with at least one law that nobody ever has though
 
 No requirements are needed, you can open the project via Google Colab.
 
-##Usage
+## Usage
 
 This project is purely for fun an has no further use. But read a few laws and search for funny new rules :)
 
