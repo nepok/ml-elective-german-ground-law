@@ -9,7 +9,7 @@ I wanted to see if it comes up with at least one law that nobody ever has though
 
 ## Requirements
 
-No requirements are needed, you can open the project via Google Colab.
+No requirements are needed, just click on "Run in Google Colab" when looking at the main .ipynb file.
 
 ## Usage
 
