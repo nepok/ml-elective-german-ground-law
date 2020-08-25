@@ -10,6 +10,7 @@ I wanted to see if it comes up with at least one law that nobody ever has though
 ## Requirements
 
 No requirements are needed, just click on "Run in Google Colab" when looking at the main .ipynb file.
+If you want to try it on your own, upload the file 'Grundgesetz.txt' from this repository into Google Colab.
 
 ## Usage
 
