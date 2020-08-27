@@ -19,4 +19,5 @@ This project is purely for fun an has no further use. Just try to read a few law
 ## Authors
 
 The Example it is based on is by the Tensorflow Authors.
+
 Changes were made by Nepomuk Kindermann (Matr. No. 755347) with help of Meghan Kane.
