@@ -14,7 +14,7 @@ If you want to try it on your own, upload the file 'Grundgesetz.txt' from this r
 
 ## Usage
 
-This project is purely for fun an has no further use. But read a few laws and search for funny new rules :)
+This project is purely for fun an has no further use. Just try to read a few laws and search for new rules for our society!
 
 ## Authors
 
