@@ -6,7 +6,6 @@ This project is the result of an Machine Learning elective at the University of 
 Facing the German Ground Law as the rules our society is based on, I thought it could be interesting to let a RNN (= recursive neural network) reinterpret and write a new German Ground Law.
 By rewriting it with Machine Learning this serious and unbelievably important topic suddenly becomes a joke.
 I wanted to see if it comes up with at least one law that nobody ever has thought about and that’s not completely useless.
-
 ## Requirements
 
 No requirements are needed, just click on "Run in Google Colab" when looking at the main .ipynb file.
