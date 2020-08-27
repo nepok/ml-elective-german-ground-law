@@ -19,4 +19,4 @@ This project is purely for fun an has no further use. But read a few laws and se
 ## Authors
 
 The Example it is based on is by the Tensorflow Authors.
-Changes were made by Nepomuk Kindermann with help of Meghan Kane.
+Changes were made by Nepomuk Kindermann (Matr. No. 755347) with help of Meghan Kane.
