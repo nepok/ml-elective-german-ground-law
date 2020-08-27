@@ -1,4 +1,4 @@
-# Text Generation of a new German Ground Law using a RNN
+# Text Generation of a new German Ground Law using an RNN
 
 ## Description
 
